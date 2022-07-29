@@ -1,0 +1,12 @@
+F:\F# study\Labs\Sudoku\Sudoku\bin\Debug\net6.0\Sudoku.deps.json
+F:\F# study\Labs\Sudoku\Sudoku\bin\Debug\net6.0\Sudoku.dll
+F:\F# study\Labs\Sudoku\Sudoku\bin\Debug\net6.0\Sudoku.pdb
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.csproj.AssemblyReference.cache
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.AssemblyInfoInputs.cache
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.AssemblyInfo.cs
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.csproj.CoreCompileInputs.cache
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.dll
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\refint\Sudoku.dll
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\Sudoku.pdb
+F:\F# study\Labs\Sudoku\Sudoku\obj\Debug\net6.0\ref\Sudoku.dll

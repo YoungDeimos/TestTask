@@ -1,0 +1,45 @@
+C:\Users\user\source\repos\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.exe
+C:\Users\user\source\repos\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.deps.json
+C:\Users\user\source\repos\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.runtimeconfig.json
+C:\Users\user\source\repos\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.dll
+C:\Users\user\source\repos\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.pdb
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.AssemblyInfo.cs
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.dll
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\refint\SortableShapes.dll
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.pdb
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.genruntimeconfig.cache
+C:\Users\user\source\repos\SortableShapes\SortableShapes\obj\Debug\net6.0\ref\SortableShapes.dll
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.AssemblyInfo.cs
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.dll
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\ref\SortableShapes.dll
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.pdb
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.exe
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.deps.json
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.runtimeconfig.json
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.dll
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.pdb
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\refint\SortableShapes.dll
+C:\Users\Dima\Desktop\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.genruntimeconfig.cache
+C:\Projects C#\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.exe
+C:\Projects C#\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.deps.json
+C:\Projects C#\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.runtimeconfig.json
+C:\Projects C#\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.dll
+C:\Projects C#\SortableShapes\SortableShapes\bin\Debug\net6.0\SortableShapes.pdb
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.csproj.AssemblyReference.cache
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.AssemblyInfoInputs.cache
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.AssemblyInfo.cs
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.csproj.CoreCompileInputs.cache
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.dll
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\refint\SortableShapes.dll
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.pdb
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\SortableShapes.genruntimeconfig.cache
+C:\Projects C#\SortableShapes\SortableShapes\obj\Debug\net6.0\ref\SortableShapes.dll

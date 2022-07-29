@@ -1,0 +1,5 @@
+USE MyShop
+
+SELECT TOP 1 *
+FROM Products
+ORDER BY Price
